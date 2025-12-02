@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Container Security Hub",
+  "description": "A comprehensive container security platform featuring AI-powered VEX generation, security best practices, and interactive FAQs to manage and suppress CVEs effectively.",
+  "requestFramePermissions": []
+}
